@@ -1,0 +1,263 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  position: relative;
+}
+
+.container {
+  width: 95%;
+  margin: auto;
+}
+
+header {
+  height: 20px;
+  color: black;
+}
+
+table {
+  width: 100%;
+  margin-top: 15px;
+  border-radius: 4px;
+  border-top: 1px solid #cccccc;
+  border-bottom: 1px solid #cccccc;
+}
+
+tr {
+  width: 100%;
+}
+
+.s-box {
+  height:60px;
+  margin-top: 0;
+}
+
+.th-16ths {
+  width: 5.85%;
+  padding: 0;
+  margin: 0;
+  font-weight: 100;
+  display: inline-block;
+  border-right: 1px solid #cccccc;
+}
+
+.th-16ths:last-of-type {
+  border-right: none;
+}
+
+.th-20ths {
+  width: 4.75%;
+  padding: 0;
+  margin: 0;
+  font-weight: 100;
+  display: inline-block;
+  border-right: 1px solid #cccccc;
+}
+
+.th-20ths:last-of-type {
+  border-right: none;
+}
+
+.th-4ths {
+  width: 24%;
+  padding: 0;
+  margin: 0;
+  font-weight: 100;
+  display: inline-block;
+  border-right: 1px solid #cccccc;
+}
+.th-4ths:last-of-type {
+  border-right: none;
+}
+
+.th-8ths {
+  width: 12.1%;
+  padding: 0;
+  margin: 0;
+  font-weight: 100;
+  display: inline-block;
+  border-right: 1px solid #cccccc;
+}
+.th-8ths:last-of-type {
+  border-right: none;
+}
+
+.th-10ths {
+  width: 9.5%;
+  padding: 0;
+  margin: 0;
+  font-weight: 100;
+  display: inline-block;
+  border-right: 1px solid #cccccc;
+}
+.th-10ths:last-of-type {
+  border-right: none;
+}
+
+.input {
+  width: 20%;
+  margin: 0;
+  padding: 0;
+  height: 30px;
+  border-radius: 4px;
+  display: inline-block;
+  border: 1px solid #cccccc;
+}
+.label {
+  width: 20%;
+  margin: 0;
+  padding: 0;
+  height: 30px;
+  display: inline-block;
+}
+
+.box {
+  width: 48%;
+  margin: 0;
+  display: block;
+  float: left;
+  padding: 0;
+  height: 1460px;
+  border: 1px solid #cccccc;
+  border-top: none;
+  border-bottom: none;
+}
+
+.box-right {
+  width: 48%;
+  float: right;
+  display: block;
+  margin: 0;
+  padding: 0;
+  height: 1460px;
+  border-right: 1px solid #cccccc;
+}
+
+.midcontainer {
+  width: 49%;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  height: 100px;
+}
+
+.box-label {
+  margin-top: 2px;
+  margin-bottom: 2px;
+  text-align: center;
+}
+
+.my-boxes {
+  height: 80px;
+  display: block;
+  border-radius: 4px;
+  border: 1px solid #cccccc;
+}
+
+.sub-box {
+  width: 100%;
+  margin-bottom: 5px;
+  padding: 0;
+  height: 100px;
+}
+
+.tall {
+  height: 130px;
+}
+
+.taller {
+  height: 120px;
+}
+
+.half {
+  width: 44%;
+  margin-left: 24%;
+  margin-right: 26%;
+  float: right;
+}
+
+.green {
+  color: #fff;
+  background-color: #5cb85c;
+  border-color: #4cae4c;
+}
+
+.red {
+  color: #fff;
+  background-color: #d9534f;
+  border-color: #d43f3a;
+}
+
+.blue {
+  color: #fff;
+  background-color: #337ab7;
+  border-color: #2e6da4;
+}
+
+.half-right {
+  width: 44%;
+  margin-left: 48%;
+  margin-right: 2%;
+  float: right;
+}
+
+.third {
+  width: 66%;
+  margin: auto;
+}
+
+.shift-left {
+  width: 80%;
+  margin: auto;
+  display:block;
+}
+
+.quarters {
+  width: 20%;
+  margin-left: 2%;
+  margin-right: 2%;
+  float: right;
+}
+
+.inline {
+  display: inline-block;
+}
+
+.s-left {
+  width: 45%;
+  float: left;
+  display: block;
+}
+
+.s-right {
+  width: 45%;
+  float: right;
+  display: block;
+  margin-right: auto;
+}
+
+.subcontainer {
+  margin-bottom: 25px;
+}
+
+.wider {
+  width: 55%;
+}
+
+.button {
+  background-color: #991633;
+  color: #f7f7f7;
+  padding: 10px 14px 10px 14px;
+  margin-bottom: 20px;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  font-size: 14px;
+  border-radius: 4px;
+  margin: 0;
+  width: 100px;
+}
+
+.black {
+  background-color: black;
+}
